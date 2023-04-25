@@ -2,7 +2,6 @@ from tkinter import *
 import os.path
 import pickle
 root = Tk()
-
 # Creating the screen Variable
 screen = 1
 
